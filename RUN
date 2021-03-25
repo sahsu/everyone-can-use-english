@@ -1,0 +1,2 @@
+sudo ebook-meta -t "人人都能用英語" -a "李笑來" q.epub
+sudo ebook-meta -t "人人都能用英語" -a "李笑來" everyone-can-use-english.epub
